@@ -3,3 +3,9 @@ terraform.tfstate.backup
 terraform.tfstate
 .terraform/
 terraform.tfvars
+Storage/terraform.tfstate
+Storage/terraform.tfstate.backup
+Compute/terraform.tfstate
+Compute/terraform.tfstate.backup
+Networking/terraform.tfstate
+Networking/terraform.tfstate.backup
